@@ -39,7 +39,7 @@ totales y gestionar una lista de items con funcionalidades CRUD.
 
 ## 📁 Estructura del proyecto
 ```text
-sistema-facturacion/
+facturas/
 ├── index.html      # Estructura principal y formulario
 ├── styles.css      # Estilos y diseño de tabla
 ├── script.js       # Lógica de facturación
@@ -49,12 +49,12 @@ sistema-facturacion/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/sistema-facturacion
+git clone https://github.com/Rusby6/facturas
 ```
 2. Accede al directorio del proyecto:
 
 ```bash
-cd sistema-facturacion
+cd facturas
 ```
 3. Abre el archivo index.html en tu navegador.
 
