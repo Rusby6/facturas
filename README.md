@@ -10,14 +10,12 @@ totales y gestionar una lista de items con funcionalidades CRUD.
 - Cálculo automático: Precio total por producto (cantidad × precio unitario)
 - Total de factura: Suma automática de todos los productos
 - Gestión de productos:
-- Botón "Detalles" para ver información completa
-- Botón "Eliminar" para remover productos
+  - Botón "Detalles" para ver información completa
+  - Botón "Eliminar" para remover productos
 - Validación de entrada:
 - Producto no puede estar vacío
-- Cantidad debe ser mayor que 0
-- Precio debe ser un número positivo
-- Interfaz tabular: Diseño claro con tabla responsive
-- Formato monetario: Valores mostrados con dos decimales y símbolo €
+  - Cantidad debe ser mayor que 0
+  - Precio debe ser un número positivo
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5
