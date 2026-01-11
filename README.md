@@ -47,7 +47,7 @@ facturas/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/Rusby6/facturas
+git clone https://github.com/Rusby6/facturas.git
 ```
 2. Accede al directorio del proyecto:
 
